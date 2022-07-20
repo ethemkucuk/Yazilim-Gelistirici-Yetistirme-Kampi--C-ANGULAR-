@@ -1,0 +1,8 @@
+C:\Users\Monster\Desktop\C# Örneklerim\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+C:\Users\Monster\Desktop\C# Örneklerim\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+C:\Users\Monster\Desktop\C# Örneklerim\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
